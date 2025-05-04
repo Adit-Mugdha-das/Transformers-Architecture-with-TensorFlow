@@ -43,6 +43,6 @@ This assignment provides hands-on experience with the architecture that underlie
 ## License
 
 This repository is based on educational material provided by DeepLearning.AI through Coursera.  
-It is intended for educational and personal use only. Redistribution for commercial purposes is not permitted.
+It is intended for educational and personal use only.
 
 ---
